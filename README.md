@@ -43,5 +43,5 @@ $ python3 ants_gui.py
 ### 5. Class Project Site
 [here]
 
-[here]: <https://cs61a.org/proj/ants/>
+[here]: <https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/>
 [Plants Vs. Zombies]: <http://www.popcap.com/plants-vs-zombies-1>
